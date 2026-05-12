@@ -5,6 +5,7 @@ Kindly go through the Customer Segmentation Report.pdf to know more about the pr
 This repository contains the published paper and implementation.
 
 ## Publication
+Title: Customer Segmentation Analysis leveraging Machine Learning Algorithms  
 International Conference: 2023 IEEE International Conference on Contemporary Computing and Communications (InC4)  
 DOI: [https://doi.org/10.1109/InC457730.2023.10263179](https://doi.org/10.1109/InC457730.2023.10263179)
 
